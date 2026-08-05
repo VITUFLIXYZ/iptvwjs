@@ -1,7 +1,7 @@
 // -----------------------------------------------------------------------------
 // CONFIGURAÇÃO: Lista padrão (caso não passe o parâmetro ?lista= na URL)
 // -----------------------------------------------------------------------------
-const M3U_PADRAO = "http://bestapp10.top/get.php?username=533430&password=919427&type=m3u_plus";
+const M3U_PADRAO = "http://minhatv.sbs/get.php?username=gratis158853709&password=teste158853709&type=m3u_plus";
 
 // CACHE EM MEMÓRIA DO WORKER (Chaveia por URL de lista)
 let CACHE_DADOS = {};
